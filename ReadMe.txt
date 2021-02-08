@@ -1,0 +1,1 @@
+This is a hydration reminder app that will send you notification to drink water whenever your phone is charging. 
